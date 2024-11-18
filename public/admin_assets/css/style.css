@@ -1,0 +1,23 @@
+.btn-me {
+    display: grid;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    color: #131313;
+    padding: 10px 20px;
+    min-width: 153px;
+    border-radius: 50px;
+    font-weight: normal;
+    border: none;
+    background: #F38BA0;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .btn-me {
+    color: white;
+  }
+  
+  .hilang {
+    display: none;
+  }

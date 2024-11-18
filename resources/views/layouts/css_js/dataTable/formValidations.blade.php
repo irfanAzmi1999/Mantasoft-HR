@@ -1,0 +1,1 @@
+<script src="{{ asset('admin_assets/js/scripts/forms/form-tooltip-valid.js') }}"></script>
